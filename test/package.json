@@ -1,5 +1,6 @@
 {
   "name": "test",
+  "homepage": "https://as1605.github.io/FireBaseHosting",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
